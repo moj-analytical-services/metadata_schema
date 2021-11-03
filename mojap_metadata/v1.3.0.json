@@ -375,7 +375,7 @@
         },
         "table_location": {
             "type": "string",
-            "title": "folder path of the data"
+            "title": "Path to your data can be a folder path, filepath or URL."
         },
         "columns": {
             "type": "array",
